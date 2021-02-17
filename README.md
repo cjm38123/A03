@@ -66,6 +66,9 @@ How to add WebStorm file to GitHub
 
 
 
+References
+1) Introduction to GitHub and WebStorm Power Point by. Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT
+2) GitHub Guides, Retrieved February 17, 2021, https://guides.github.com/activities/hello-world/
 
 
 
