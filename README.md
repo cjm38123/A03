@@ -74,18 +74,18 @@ References
 
 
 Glossary:
-* Branch - copy of a codeline managed in version control system
-* Clone - copy an existing repository
-* Commit - Sends the lastest souce code to the repository
-* Fetch - Command to download commits, files, and rep from a remote repository
-* GIT - Software or tracking changes in any set of files
-* Github - Sotware version control using Git
-* Merge - Itegrates independent lines of development and puts them into one line
-* Merge Conflict - Event that occurs when Git can not automatically resolve differences in code between two commits
-* Push - Command used to upload local repository content to remote repository
-* Pull - Command used to get and download a remote repository to a local repository
-* Remote - Lists all the repos of the project
-* Repository - A file storage location
+* Branch - copy of a code so you can work on it without messing with the main code
+* Clone - copy a Git repository that is on your local machine
+* Commit - a change to a file that is recorded by Git
+* Fetch - making changes that were made in the remote repository to your local repository
+* GIT - Software for tracking changes in any set of files
+* Github - service that uses Git to manage source code and stores it in a remote repository
+* Merge - takes changes from one set of code and puts them into another set of code
+* Merge Conflict - seperate changes are made to same file and same line of code
+* Push - command that is used to send local repository changes to a remote repository
+* Pull - command that is used to send remote repository changes to a local repository
+* Remote - hosted on a server that can be connected with a local repository
+* Repository - a place where all files and documents are held
 
 
 
