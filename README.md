@@ -71,6 +71,8 @@ References
 2) GitHub Guides, Retrieved February 17, 2021, https://guides.github.com/activities/hello-world/
 
 
+
+
 Glossary:
 * Branch - copy of a codeline managed in version control system
 * Clone - copy an existing repository
